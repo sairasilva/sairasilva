@@ -1,14 +1,14 @@
-<h1 align="left">SEJA BEM-VINDO AO MEU GITHUB!! :wave:</h1>
+<h1 align="left">SEJA BEM-VINDO(A) AO MEU GITHUB!! :wave:</h1>
 
 ###
 
-<p align="left">Prazer! :wave: Me chamo Saira, sou uma desenvolvedora Full-Stack!</p>
+<p align="left">Prazer! :wave: Me chamo Saira e sou uma desenvolvedora Full-Stack!</p>
 
 ###
 
-<h2 align="left">Apaixonada por inovação e tecnologia!</h2>
+<h2 align="left">Apaixonada por Inovação e Tecnologia!</h2>
 
-<h2 align="left">Linguagens e ferramentas</h2>
+<h2 align="left">Linguagens e Ferramentas:</h2>
 
 ###
 
