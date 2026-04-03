@@ -45,8 +45,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <br>
-  <br>
-  <img align="center" alt="Sa-gif" height="130 width="130" src="https://cdn.discordapp.com/attachments/1349511616219189323/1489721377295695963/sa.gif?ex=69d172a6&is=69d02126&hm=ffd612f000b23c7b449eca56be597413d0d393f82f9addc9425141960f9521bf">
+  <img align="left" alt="Sa-gif" height="120 width="120" src="https://cdn.discordapp.com/attachments/1349511616219189323/1489721377295695963/sa.gif?ex=69d172a6&is=69d02126&hm=ffd612f000b23c7b449eca56be597413d0d393f82f9addc9425141960f9521bf">
 </div>
 
 ###
