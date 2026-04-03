@@ -1,4 +1,4 @@
-<h1 align="left">SEJA BEM-VINDO(A) AO MEU GITHUB! 👋 <img alt="Sa-gif" align="right" height="100 width="120" src="https://cdn.discordapp.com/attachments/1349511616219189323/1489721377295695963/sa.gif?ex=69d172a6&is=69d02126&hm=ffd612f000b23c7b449eca56be597413d0d393f82f9addc9425141960f9521bf"> </h1>
+<h1 align="left">SEJA BEM-VINDO(A) AO MEU GITHUB! 👋 <img alt="Sa-gif" align="right" height="100 width="110" src="https://cdn.discordapp.com/attachments/1349511616219189323/1489721377295695963/sa.gif?ex=69d172a6&is=69d02126&hm=ffd612f000b23c7b449eca56be597413d0d393f82f9addc9425141960f9521bf"> </h1>
 
 ###
 
