@@ -8,7 +8,7 @@
 
 <h2 align="left">Apaixonada por Inovação e Tecnologia!</h2>
 
-<h2 align="left">Linguagens e Ferramentas:</h2>
+<h2 align="left">Linguagens e Ferramentas em aprendizagem:</h2>
 
 ###
 
