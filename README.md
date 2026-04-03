@@ -1,8 +1,8 @@
-<h1 align="left">SEJA BEM-VINDO(A) AO MEU GITHUB!! :wave:</h1>
+<h1 align="left">OLÁ! SEJA BEM-VINDO(A) AO MEU GITHUB! :wave:</h1>
 
 ###
 
-<p align="left">Prazer! :wave: Me chamo Saira e sou uma desenvolvedora Full-Stack!</p>
+<p align="left">Prazer, me chamo Saira e sou uma desenvolvedora Full-Stack!</p>
 
 ###
 
