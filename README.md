@@ -46,7 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <br>
   <br>
-  <img align="right" alt="Sa-yoda" src="https://l1nq.com/nclwc58">
+  <img align="right" alt="Sa-gif" src="https://l1nq.com/nclwc58.gif">
 </div>
 
 ###
