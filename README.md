@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">👋 Prazer, me chamo Saira e sou uma desenvolvedora Full-Stack!</p>
-
-###
-
 <h2 align="left">Apaixonada por Inovação e Tecnologia!</h2>
 
 <h2 align="left">Linguagens e Ferramentas em aprendizagem:</h2>
