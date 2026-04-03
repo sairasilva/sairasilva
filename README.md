@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> <img alt="Sa-gif" height="90 width="80" src="https://cdn.discordapp.com/attachments/1349511616219189323/1489721377295695963/sa.gif?ex=69d172a6&is=69d02126&hm=ffd612f000b23c7b449eca56be597413d0d393f82f9addc9425141960f9521bf">   Prazer, me chamo Saira e sou uma desenvolvedora Full-Stack!</p>
+<p align="left"> <img alt="Sa-gif" height="90 width="80" src="https://cdn.discordapp.com/attachments/1349511616219189323/1489721377295695963/sa.gif?ex=69d172a6&is=69d02126&hm=ffd612f000b23c7b449eca56be597413d0d393f82f9addc9425141960f9521bf"> <h2 align="center">Prazer, me chamo Saira e sou uma desenvolvedora Full-Stack!</h2> </p>
 
 ###
 
