@@ -44,7 +44,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img align="right" alt="Sa-Silva" src="https://cdn.discordapp.com/attachments/1349511616219189323/1489716389227794604/sa.gif?ex=69d16e00&is=69d01c80&hm=6c8a42d8e23001b8049f6713496f212b5cec70d47d8012f2f158e542af295461">
+  <br>
+  <br>
+  <img align="right" alt="Sa-yoda" src="https://l1nq.com/nclwc58">
 </div>
 
 ###
