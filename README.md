@@ -4,7 +4,7 @@
 
 <h2 align="left">Olá! Prazer, me chamo Saira e sou entusiasta de inovação e tecnologia.</h2>
 
-<h2 align="left">Linguagens e Ferramentas em aprendizagem:</h2>
+<h2 align="left">Linguagens e Ferramentas em evolução:</h2>
 
 ###
 
