@@ -11,7 +11,7 @@
 
 #
 
-<img align="right" alt="" height="190px" src="https://cdn.discordapp.com/attachments/1349511616219189323/1489801670857724014/study.gif?ex=69d1bd6d&is=69d06bed&hm=c37e0126ccf79166236c34c30afc7becc66337174ad4261df4f2b3d8c4f3cce4"/>
+<img align="right" alt="" height="170px" src="https://cdn.discordapp.com/attachments/1349511616219189323/1489801670857724014/study.gif?ex=69d1bd6d&is=69d06bed&hm=c37e0126ccf79166236c34c30afc7becc66337174ad4261df4f2b3d8c4f3cce4"/>
 
 <h3 align="left">Connect with me!</h3>
 
