@@ -7,7 +7,7 @@
 
 #
 
-<p align="center">Olá! Sou estudante de Gestão em Tecnologia da Informação pela Faculdade UNIP e estou aprimorando meus conhecimentos em programação na Instituição PROA. Busco constantemente aprimorar minhas habilidades e enfrentar novos desafios na área de tecnologia. Sou entusiasta do aprendizado contínuo e da aplicação desses conhecimentos para criar soluções inovadoras.<p>
+<p align="center">Olá! Sou estudante de Gestão em Tecnologia da Informação pela Faculdade UNIP e estou aprimorando meus conhecimentos em programação na Instituição PROA. Busco constantemente aperfeiçoar minhas habilidades e enfrentar novos desafios na área de tecnologia. Sou entusiasta do aprendizado contínuo e da aplicação desses conhecimentos para criar soluções inovadoras.<p>
 
 #
 
