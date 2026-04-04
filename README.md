@@ -45,7 +45,6 @@
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="25" alt="trello logo"  />
 <img width="10" />
-<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="vscode logo"  />
 </div>
 
@@ -56,3 +55,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sairasilva/sairasilva/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sairasilva/sairasilva/output/github-contribution-grid-snake.svg">
 </picture>
+
+###
