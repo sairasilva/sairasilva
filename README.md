@@ -45,6 +45,7 @@
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="25" alt="trello logo"  />
 <img width="10" />
+<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="vscode logo"  />
 </div>
 
