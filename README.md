@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG"/>
   </a>
-  <img align="left" alt="Sa-gif" height="70px" src="https://cdn.discordapp.com/attachments/1349511616219189323/1489721377295695963/sa.gif?ex=69d172a6&is=69d02126&hm=ffd612f000b23c7b449eca56be597413d0d393f82f9addc9425141960f9521bf"/>
+    <img align="left" alt="Sa-gif" height="70px" src="https://cdn.discordapp.com/attachments/1349511616219189323/1489721377295695963/sa.gif?ex=69d172a6&is=69d02126&hm=ffd612f000b23c7b449eca56be597413d0d393f82f9addc9425141960f9521bf"/>
 </div>
 
 #
