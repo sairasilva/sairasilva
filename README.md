@@ -2,7 +2,6 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG"/>
   </a>
-    <img align="left" alt="Sa-gif" height="75px" src="https://cdn.discordapp.com/attachments/1349511616219189323/1489721377295695963/sa.gif?ex=69d172a6&is=69d02126&hm=ffd612f000b23c7b449eca56be597413d0d393f82f9addc9425141960f9521bf"/>
 </div>
 
 #
@@ -10,8 +9,6 @@
 <p align="center">Olá! Sou estudante de Gestão em Tecnologia da Informação pela Faculdade UNIP e estou aprimorando meus conhecimentos em programação na Instituição PROA. Busco constantemente aperfeiçoar minhas habilidades e enfrentar novos desafios na área de tecnologia. Sou entusiasta do aprendizado contínuo e da aplicação desses conhecimentos para criar soluções inovadoras.<p>
 
 #
-
-<img align="right" alt="" height="170px" src="https://cdn.discordapp.com/attachments/1349511616219189323/1489801670857724014/study.gif?ex=69d1bd6d&is=69d06bed&hm=c37e0126ccf79166236c34c30afc7becc66337174ad4261df4f2b3d8c4f3cce4"/>
 
 <h3 align="left">Connect with me!</h3>
 
